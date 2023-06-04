@@ -1,5 +1,8 @@
 # odin-recipes
 HTML Project01 Recipes
+
+Live at : https://noahpease.github.io/odin-recipes/
+
 First Project from "The Odin Project" course.
 
 For this project I will be creating a website that will consist of a main index page which will have links to a few different recipes. 
